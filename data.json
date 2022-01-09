@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Planets Fact site",
+    "githubrepo": "https://github.com/Gershwen/planets-fact-site-project",
+    "appUri": "https://gershwen.github.io/planets-fact-site-project/",
+    "imgsrc": "../images/PlanetsSite.png",
+    "alt": "thumbnail of planets site",
+    "description": "8 page website built with Semantic HTML, CSS and JavaScript using a Figma design"
+  },
+  {
+    "id": 2,
+    "name": "Sunny Side Landing Page",
+    "githubrepo": "https://github.com/Gershwen/sunnyside-landing-page-project",
+    "appUri": "https://gershwen.github.io/sunnyside-landing-page-project/",
+    "imgsrc": "../images/SunnySideLandingPage.png",
+    "alt": "thumbnail of sunnyside site",
+    "description": "Landing built with Semantic HTML, CSS and JavaScript using a Figma design"
+  },
+  {
+    "id": 3,
+    "name": "Online store",
+    "githubrepo": "https://github.com/Gershwen/Capstone_project_2",
+    "appUri": "https://gershwen.github.io/Capstone_project_2/",
+    "imgsrc": "../images/OnlineStore.png",
+    "alt": "thumbnail of online store",
+    "description": "Online store built using Semantic HTML, Bootstrap & jQuery."
+  },
+  {
+    "id": 4,
+    "name": "iTunes Search API app",
+    "githubrepo": "https://github.com/Gershwen/Full_Stack_iTunes_Search_App/tree/main/backend",
+    "appUri": "https://itunessearch-app.herokuapp.com/",
+    "imgsrc": "../images/FullStackiTunesApp.png",
+    "alt": "thumbnail of iTunes App",
+    "description": "Full-Stack web App using iTunes API"
+  },
+  {
+    "id": 5,
+    "name": "Minesweeper game",
+    "githubrepo": "https://github.com/Gershwen/Minesweeper",
+    "appUri": "https://minesweepergame1.herokuapp.com/",
+    "imgsrc": "../images/MinesweeperGame.png",
+    "alt": "thumbnail of Minesweeper game",
+    "description": "Minesweeper game built with React.js"
+  },
+  {
+    "id": 6,
+    "name": "eDoc administation app",
+    "githubrepo": "https://github.com/Gershwen/edoc2",
+    "appUri": "https://edoc2.herokuapp.com/",
+    "imgsrc": "../images/eDoc.png",
+    "alt": "thumbnail of eDoc app",
+    "description": "Application built using Next.js with a custom express server. Using MongoDB as the database to store user details including password encryotion. JWT for authentication."
+  }
+]
