@@ -4,7 +4,7 @@
     "name": "Planets Fact site",
     "githubrepo": "https://github.com/Gershwen/planets-fact-site-project",
     "appUri": "https://gershwen.github.io/planets-fact-site-project/",
-    "imgsrc": "../images/PlanetsSite.png",
+    "imgsrc": "images/PlanetsSite.png",
     "alt": "thumbnail of planets site",
     "description": "8 page website built with Semantic HTML, CSS and JavaScript using a Figma design"
   },
