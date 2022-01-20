@@ -1,4 +1,5 @@
 import data from "../../data.json" assert { type: "json" };
+import blogs from "../../blogs.json" assert {type: "json"};
 
 let section = document.querySelector(".posts");
 
@@ -60,4 +61,22 @@ skills.forEach((skill) => {
   skillsList.value = j;
   j = j + 1;
   skillsList.appendChild(listItem);
+});
+
+
+/////////////Blogs////////////////////
+
+let blogsList = document.querySelector("#blog-list");
+
+let g = 0;
+
+blogs.forEach((blog) => {
+
+  let blogItem = document.createElement("li");
+
+  blogItem.innerHTML = `<a href=${blog.blogurl}>${blog.blogname}</a>`;
+
+blogItem.value = g;
+  g = g + 1;
+  blogsList.appendChild(blogItem);
 });
