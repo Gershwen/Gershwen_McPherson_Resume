@@ -60,6 +60,6 @@
     "appUri": "https://githubapi-project.vercel.app/",
     "imgsrc": "./images/githubSearch.png",
     "alt": "thumbnail of GitHub User Search App",
-    "description": "Application built with React.js that gets data from teh GitHub API when using the search function."
+    "description": "Application built with React.js that gets data from the GitHub API when using the search function."
   }
 ]
