@@ -52,5 +52,14 @@
     "imgsrc": "./images/eDoc.png",
     "alt": "thumbnail of eDoc app",
     "description": "Application built using Next.js with a custom express server. Using MongoDB as the database to store user details including password encryotion. JWT for authentication."
+  },
+  {
+    "id": 7,
+    "name": "GitHub User Search App",
+    "githubrepo": "https://github.com/Gershwen/githubapi-project",
+    "appUri": "https://githubapi-project.vercel.app/",
+    "imgsrc": "./images/githubSearch.png",
+    "alt": "thumbnail of GitHub User Search App",
+    "description": "Application built with React.js that gets data from teh GitHub API when using the search function."
   }
 ]
