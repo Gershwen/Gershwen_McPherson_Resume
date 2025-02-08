@@ -30,16 +30,16 @@
     "id": 4,
     "name": "iTunes Search API app",
     "githubrepo": "https://github.com/Gershwen/Full_Stack_iTunes_Search_App/tree/main/backend",
-    "appUri": "https://itunessearch-app.herokuapp.com/",
+    "appUri": "https://full-stack-itunes-search-app.onrender.com",
     "imgsrc": "./images/FullStackiTunesApp.png",
     "alt": "thumbnail of iTunes App",
-    "description": "Full-Stack web App using iTunes API"
+    "description": "Full-Stack Web App using iTunes API"
   },
   {
     "id": 5,
     "name": "Minesweeper game",
     "githubrepo": "https://github.com/Gershwen/Minesweeper",
-    "appUri": "https://minesweepergame1.herokuapp.com/",
+    "appUri": "https://minesweeper-u5aw.onrender.com",
     "imgsrc": "./images/MinesweeperGame.png",
     "alt": "thumbnail of Minesweeper game",
     "description": "Minesweeper game built with React.js"
@@ -48,10 +48,10 @@
     "id": 6,
     "name": "eDoc administation app",
     "githubrepo": "https://github.com/Gershwen/edoc2",
-    "appUri": "https://edoc2.herokuapp.com/",
+    "appUri": "https://edoc2.onrender.com",
     "imgsrc": "./images/eDoc.png",
     "alt": "thumbnail of eDoc app",
-    "description": "Application built using Next.js with a custom express server. Using MongoDB as the database to store user details including password encryotion. JWT for authentication."
+    "description": "Next.js application with a custom express server. Utilizing MongoDB as the database to store user details including password encryption. JWT for authentication."
   },
   {
     "id": 7,
