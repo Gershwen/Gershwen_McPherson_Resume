@@ -1,0 +1,19 @@
+[
+    {
+        "blogname": "Hashing", 
+        "blogurl":"https://concurrencyinwebdevelopmentbygershwen.blogspot.com/2022/01/how-javascript-uses-hashing.html"
+    },
+    {
+        "blogname": "Interfaces", 
+        "blogurl":"https://concurrencyinwebdevelopmentbygershwen.blogspot.com/2022/01/interfaces-in-object-oriented.html"
+    },
+    {
+        "blogname": "Big O Notation", 
+        "blogurl":"https://concurrencyinwebdevelopmentbygershwen.blogspot.com/2022/01/big-o-notation-basics-for-web-developers.html"
+    },
+    {
+        "blogname": "Concurrency in Web Development", 
+        "blogurl":"https://concurrencyinwebdevelopmentbygershwen.blogspot.com/2022/01/what-is-concurrency-in-web-development.html"
+    }
+
+]

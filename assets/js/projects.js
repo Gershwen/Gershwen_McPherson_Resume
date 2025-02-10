@@ -2,11 +2,11 @@
 async function fetchData() {
   try {
     // Fetch projects data
-    const dataResponse = await fetch("../../data.json");
+    const dataResponse = await fetch("./assets/data.json");
     const data = await dataResponse.json();
 
     // Fetch blogs data
-    const blogsResponse = await fetch("../../blogs.json");
+    const blogsResponse = await fetch("./assets/blogs.json");
     const blogs = await blogsResponse.json();
 
     // Render content

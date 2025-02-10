@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Planets Fact site",
+    "githubrepo": "https://github.com/Gershwen/planets-fact-site-project",
+    "appUri": "https://gershwen.github.io/planets-fact-site-project/",
+    "imgsrc": "./images/PlanetsSite.png",
+    "alt": "thumbnail of planets site",
+    "description": "8 page website built with Semantic HTML, CSS and JavaScript using a Figma design"
+  },
+  {
+    "id": 2,
+    "name": "Sunny Side Landing Page",
+    "githubrepo": "https://github.com/Gershwen/sunnyside-landing-page-project",
+    "appUri": "https://gershwen.github.io/sunnyside-landing-page-project/",
+    "imgsrc": "./images/SunnySideLandingPage.png",
+    "alt": "thumbnail of sunnyside site",
+    "description": "Landing built with Semantic HTML, CSS and JavaScript using a Figma design"
+  },
+  {
+    "id": 3,
+    "name": "Online store",
+    "githubrepo": "https://github.com/Gershwen/Capstone_project_2",
+    "appUri": "https://gershwen.github.io/Capstone_project_2/",
+    "imgsrc": "./images/OnlineStore.png",
+    "alt": "thumbnail of online store",
+    "description": "Online store built using Semantic HTML, Bootstrap & jQuery."
+  },
+  {
+    "id": 4,
+    "name": "iTunes Search API app",
+    "githubrepo": "https://github.com/Gershwen/Full_Stack_iTunes_Search_App/tree/main/backend",
+    "appUri": "https://full-stack-itunes-search-app.onrender.com",
+    "imgsrc": "./images/FullStackiTunesApp.png",
+    "alt": "thumbnail of iTunes App",
+    "description": "Full-Stack Web App using iTunes API"
+  },
+  {
+    "id": 5,
+    "name": "Minesweeper game",
+    "githubrepo": "https://github.com/Gershwen/Minesweeper",
+    "appUri": "https://minesweeper-u5aw.onrender.com",
+    "imgsrc": "./images/MinesweeperGame.png",
+    "alt": "thumbnail of Minesweeper game",
+    "description": "Minesweeper game built with React.js"
+  },
+  {
+    "id": 6,
+    "name": "eDoc administation app",
+    "githubrepo": "https://github.com/Gershwen/edoc2",
+    "appUri": "https://edoc2.onrender.com",
+    "imgsrc": "./images/eDoc.png",
+    "alt": "thumbnail of eDoc app",
+    "description": "Next.js application with a custom express server. Utilizing MongoDB as the database to store user details including password encryption. JWT for authentication."
+  },
+  {
+    "id": 7,
+    "name": "GitHub User Search App",
+    "githubrepo": "https://github.com/Gershwen/githubapi-project",
+    "appUri": "https://githubapi-project.vercel.app/",
+    "imgsrc": "./images/githubSearch.png",
+    "alt": "thumbnail of GitHub User Search App",
+    "description": "Application built with React.js that gets data from the GitHub API when using the search function."
+  }
+]
